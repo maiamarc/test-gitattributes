@@ -1,0 +1,4 @@
+test-gitattributes
+==================
+
+test-gitattributes
